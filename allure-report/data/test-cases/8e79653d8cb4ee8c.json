@@ -1,0 +1,71 @@
+{
+  "uid" : "8e79653d8cb4ee8c",
+  "name" : "POST Request",
+  "fullName" : "API Requests.POST Request",
+  "historyId" : "10cddfedff1ee99bbecf67112ad45a87",
+  "time" : {
+    "start" : 1639849942356,
+    "stop" : 1639849943128,
+    "duration" : 772
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "API Requests"
+  }, {
+    "name" : "testClass",
+    "value" : "API Requests"
+  }, {
+    "name" : "testMethod",
+    "value" : "POST Request"
+  }, {
+    "name" : "package",
+    "value" : "API Requests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fb15845e0a8ffb63",
+      "status" : "broken",
+      "statusDetails" : "req.post is not a function",
+      "time" : {
+        "start" : 1639849834185,
+        "stop" : 1639849834189,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e79653d8cb4ee8c.json",
+  "parameterValues" : [ "chrome-96.0.4664.110" ]
+}

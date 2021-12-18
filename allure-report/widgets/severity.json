@@ -1,0 +1,21 @@
+[ {
+  "uid" : "8e79653d8cb4ee8c",
+  "name" : "POST Request",
+  "time" : {
+    "start" : 1639849942356,
+    "stop" : 1639849943128,
+    "duration" : 772
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e23fc0c8b090ad59",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1639842489497,
+    "stop" : 1639842492139,
+    "duration" : 2642
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

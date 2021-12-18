@@ -1,0 +1,47 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "My Login application",
+    "children" : [ {
+      "name" : "should login with valid credentials",
+      "uid" : "e23fc0c8b090ad59",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639842489497,
+        "stop" : 1639842492139,
+        "duration" : 2642
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    } ],
+    "uid" : "ff9b43c34a817b44fa9b6edf61b00141"
+  }, {
+    "name" : "API Requests",
+    "children" : [ {
+      "name" : "POST Request",
+      "uid" : "8e79653d8cb4ee8c",
+      "parentUid" : "f8008645437e62f399f3efd763ea28cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639849942356,
+        "stop" : 1639849943128,
+        "duration" : 772
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    } ],
+    "uid" : "f8008645437e62f399f3efd763ea28cd"
+  } ]
+}

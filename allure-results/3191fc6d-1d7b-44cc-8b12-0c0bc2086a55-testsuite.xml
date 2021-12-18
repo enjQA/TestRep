@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1639849834185' stop='1639849834191'>
+    <name>API Requests</name>
+    <title>API Requests</title>
+    <test-cases>
+        <test-case start='1639849834185' status='broken' stop='1639849834189'>
+            <name>POST Request</name>
+            <title>POST Request</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.110'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>req.post is not a function</message>
+                <stack-trace>TypeError: req.post is not a function
+                    at postAPI.postRequest (/Users/mac/Documents/trnPrjct/test/pageobjects/postApi.page.js:16:20)
+                    at async Context.&lt;anonymous> (/Users/mac/Documents/trnPrjct/test/specs/example.e2e.js:6:21)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

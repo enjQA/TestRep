@@ -1,0 +1,47 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "My Login application",
+    "children" : [ {
+      "name" : "should login with valid credentials",
+      "uid" : "e23fc0c8b090ad59",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639842489497,
+        "stop" : 1639842492139,
+        "duration" : 2642
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    } ],
+    "uid" : "f43874cc36d1c5833cbb332fc53460ce"
+  }, {
+    "name" : "API Requests",
+    "children" : [ {
+      "name" : "POST Request",
+      "uid" : "8e79653d8cb4ee8c",
+      "parentUid" : "e5a6396b53f4c01eeb9ac8c0eac622fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639849942356,
+        "stop" : 1639849943128,
+        "duration" : 772
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    } ],
+    "uid" : "e5a6396b53f4c01eeb9ac8c0eac622fd"
+  } ]
+}
