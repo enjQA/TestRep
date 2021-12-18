@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
 "passed","Sat Dec 18 15:48:09 UTC 2021","Sat Dec 18 15:48:12 UTC 2021","2642","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""
-"passed","Sat Dec 18 20:32:58 UTC 2021","Sat Dec 18 20:32:58 UTC 2021","260","","API Requests","","API Requests","POST Request","POST Request",""
+"passed","Sat Dec 18 20:35:38 UTC 2021","Sat Dec 18 20:35:38 UTC 2021","235","","API Requests","","API Requests","POST Request","POST Request",""

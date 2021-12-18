@@ -1,12 +1,12 @@
 {
-  "uid" : "d7f10881e2b9a333",
+  "uid" : "2eec8195a4fcfad1",
   "name" : "POST Request",
   "fullName" : "API Requests.POST Request",
   "historyId" : "10cddfedff1ee99bbecf67112ad45a87",
   "time" : {
-    "start" : 1639849942356,
-    "stop" : 1639849943128,
-    "duration" : 772
+    "start" : 1639858779477,
+    "stop" : 1639858780150,
+    "duration" : 673
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -55,6 +55,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d7f10881e2b9a333.json",
+  "source" : "2eec8195a4fcfad1.json",
   "parameterValues" : [ "chrome-96.0.4664.110" ]
 }

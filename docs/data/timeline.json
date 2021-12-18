@@ -3,14 +3,14 @@
   "children" : [ {
     "name" : "0-0",
     "children" : [ {
-      "name" : "POST Request",
-      "uid" : "321a57d369ce79e7",
+      "name" : "should login with valid credentials",
+      "uid" : "c2558c65bd4b08d5",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1639849834185,
-        "stop" : 1639849834189,
-        "duration" : 4
+        "start" : 1639839927705,
+        "stop" : 1639839935103,
+        "duration" : 7398
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,7 +21,7 @@
       "parameters" : [ "chrome-96.0.4664.110" ]
     }, {
       "name" : "POST Request",
-      "uid" : "d7f10881e2b9a333",
+      "uid" : "f742d69440d88b0a",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -38,13 +38,13 @@
       "parameters" : [ "chrome-96.0.4664.110" ]
     }, {
       "name" : "POST Request",
-      "uid" : "b618c7218300d7e9",
+      "uid" : "61955980a987fb1d",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
+      "status" : "broken",
       "time" : {
-        "start" : 1639856647777,
-        "stop" : 1639856648544,
-        "duration" : 767
+        "start" : 1639849834185,
+        "stop" : 1639849834189,
+        "duration" : 4
       },
       "flaky" : false,
       "newFailed" : false,
@@ -54,8 +54,25 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-96.0.4664.110" ]
     }, {
+      "name" : "should login with valid credentials",
+      "uid" : "7885ae7e932134ed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639842489497,
+        "stop" : 1639842492139,
+        "duration" : 2642
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    }, {
       "name" : "POST Request",
-      "uid" : "89a992c94a08cfa9",
+      "uid" : "716c10b92d9fdea8",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -72,7 +89,41 @@
       "parameters" : [ "chrome-96.0.4664.110" ]
     }, {
       "name" : "POST Request",
-      "uid" : "12a0ba54ffdb2b38",
+      "uid" : "e5553a202a8afd01",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639856647777,
+        "stop" : 1639856648544,
+        "duration" : 767
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    }, {
+      "name" : "POST Request",
+      "uid" : "1a4e571f8cf52f50",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639859738677,
+        "stop" : 1639859738912,
+        "duration" : 235
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    }, {
+      "name" : "POST Request",
+      "uid" : "2eec8195a4fcfad1",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -85,57 +136,6 @@
       "newPassed" : false,
       "newBroken" : false,
       "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-96.0.4664.110" ]
-    }, {
-      "name" : "POST Request",
-      "uid" : "4a3aac5a127d2435",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1639859578073,
-        "stop" : 1639859578333,
-        "duration" : 260
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 5,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-96.0.4664.110" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "a9183796682ba607",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1639839927705,
-        "stop" : 1639839935103,
-        "duration" : 7398
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-96.0.4664.110" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "92de9a190fea27a6",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1639842489497,
-        "stop" : 1639842492139,
-        "duration" : 2642
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-96.0.4664.110" ]
     } ],

@@ -1,5 +1,5 @@
 {
-  "uid" : "321a57d369ce79e7",
+  "uid" : "61955980a987fb1d",
   "name" : "POST Request",
   "fullName" : "API Requests.POST Request",
   "historyId" : "10cddfedff1ee99bbecf67112ad45a87",
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "321a57d369ce79e7.json",
+  "source" : "61955980a987fb1d.json",
   "parameterValues" : [ "chrome-96.0.4664.110" ]
 }

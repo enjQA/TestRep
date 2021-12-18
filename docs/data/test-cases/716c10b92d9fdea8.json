@@ -1,12 +1,12 @@
 {
-  "uid" : "a9183796682ba607",
-  "name" : "should login with valid credentials",
-  "fullName" : "My Login application.should login with valid credentials",
-  "historyId" : "3296141cfffa81687669253d98a8b78e",
+  "uid" : "716c10b92d9fdea8",
+  "name" : "POST Request",
+  "fullName" : "API Requests.POST Request",
+  "historyId" : "10cddfedff1ee99bbecf67112ad45a87",
   "time" : {
-    "start" : 1639839927705,
-    "stop" : 1639839935103,
-    "duration" : 7398
+    "start" : 1639858335245,
+    "stop" : 1639858336130,
+    "duration" : 885
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -30,16 +30,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "My Login application"
+    "value" : "API Requests"
   }, {
     "name" : "testClass",
-    "value" : "My Login application"
+    "value" : "API Requests"
   }, {
     "name" : "testMethod",
-    "value" : "should login with valid credentials"
+    "value" : "POST Request"
   }, {
     "name" : "package",
-    "value" : "My Login application"
+    "value" : "API Requests"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -55,6 +55,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "a9183796682ba607.json",
+  "source" : "716c10b92d9fdea8.json",
   "parameterValues" : [ "chrome-96.0.4664.110" ]
 }

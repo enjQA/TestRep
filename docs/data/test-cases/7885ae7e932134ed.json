@@ -1,5 +1,5 @@
 {
-  "uid" : "92de9a190fea27a6",
+  "uid" : "7885ae7e932134ed",
   "name" : "should login with valid credentials",
   "fullName" : "My Login application.should login with valid credentials",
   "historyId" : "3296141cfffa81687669253d98a8b78e",
@@ -54,7 +54,7 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "a9183796682ba607",
+      "uid" : "c2558c65bd4b08d5",
       "status" : "passed",
       "time" : {
         "start" : 1639839927705,
@@ -84,6 +84,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "92de9a190fea27a6.json",
+  "source" : "7885ae7e932134ed.json",
   "parameterValues" : [ "chrome-96.0.4664.110" ]
 }
