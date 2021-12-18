@@ -1,12 +1,12 @@
 {
-  "uid" : "1a4e571f8cf52f50",
+  "uid" : "1e53f6d150764137",
   "name" : "POST Request",
   "fullName" : "API Requests.POST Request",
   "historyId" : "10cddfedff1ee99bbecf67112ad45a87",
   "time" : {
-    "start" : 1639859738677,
-    "stop" : 1639859738912,
-    "duration" : 235
+    "start" : 1639859921920,
+    "stop" : 1639859922183,
+    "duration" : 263
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -54,7 +54,7 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "2eec8195a4fcfad1",
+      "uid" : "aa9a8450ce5b5c48",
       "status" : "passed",
       "time" : {
         "start" : 1639858779477,
@@ -62,7 +62,7 @@
         "duration" : 673
       }
     }, {
-      "uid" : "716c10b92d9fdea8",
+      "uid" : "ebaec3ebc7d4aa0f",
       "status" : "passed",
       "time" : {
         "start" : 1639858335245,
@@ -70,7 +70,7 @@
         "duration" : 885
       }
     }, {
-      "uid" : "e5553a202a8afd01",
+      "uid" : "451bc85513ff2d10",
       "status" : "passed",
       "time" : {
         "start" : 1639856647777,
@@ -78,7 +78,7 @@
         "duration" : 767
       }
     }, {
-      "uid" : "f742d69440d88b0a",
+      "uid" : "d8e9b545077bea59",
       "status" : "passed",
       "time" : {
         "start" : 1639849942356,
@@ -86,7 +86,7 @@
         "duration" : 772
       }
     }, {
-      "uid" : "61955980a987fb1d",
+      "uid" : "1a9375a19f326121",
       "status" : "broken",
       "statusDetails" : "req.post is not a function",
       "time" : {
@@ -98,6 +98,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "1a4e571f8cf52f50.json",
+  "source" : "1e53f6d150764137.json",
   "parameterValues" : [ "chrome-96.0.4664.110" ]
 }

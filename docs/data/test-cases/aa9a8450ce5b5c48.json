@@ -1,18 +1,16 @@
 {
-  "uid" : "61955980a987fb1d",
+  "uid" : "aa9a8450ce5b5c48",
   "name" : "POST Request",
   "fullName" : "API Requests.POST Request",
   "historyId" : "10cddfedff1ee99bbecf67112ad45a87",
   "time" : {
-    "start" : 1639849834185,
-    "stop" : 1639849834189,
-    "duration" : 4
+    "start" : 1639858779477,
+    "stop" : 1639858780150,
+    "duration" : 673
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "broken",
-  "statusMessage" : "req.post is not a function",
-  "statusTrace" : "TypeError: req.post is not a function\n                    at postAPI.postRequest (/Users/mac/Documents/trnPrjct/test/pageobjects/postApi.page.js:16:20)\n                    at async Context.<anonymous> (/Users/mac/Documents/trnPrjct/test/specs/example.e2e.js:6:21)",
+  "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "newBroken" : false,
@@ -57,6 +55,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "61955980a987fb1d.json",
+  "source" : "aa9a8450ce5b5c48.json",
   "parameterValues" : [ "chrome-96.0.4664.110" ]
 }

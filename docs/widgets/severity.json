@@ -1,20 +1,20 @@
 [ {
-  "uid" : "1a4e571f8cf52f50",
-  "name" : "POST Request",
-  "time" : {
-    "start" : 1639859738677,
-    "stop" : 1639859738912,
-    "duration" : 235
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7885ae7e932134ed",
+  "uid" : "18c1bf0722f17290",
   "name" : "should login with valid credentials",
   "time" : {
     "start" : 1639842489497,
     "stop" : 1639842492139,
     "duration" : 2642
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e53f6d150764137",
+  "name" : "POST Request",
+  "time" : {
+    "start" : 1639859921920,
+    "stop" : 1639859922183,
+    "duration" : 263
   },
   "status" : "passed",
   "severity" : "normal"
