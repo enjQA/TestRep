@@ -1,0 +1,89 @@
+{
+  "uid" : "92de9a190fea27a6",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Login application.should login with valid credentials",
+  "historyId" : "3296141cfffa81687669253d98a8b78e",
+  "time" : {
+    "start" : 1639842489497,
+    "stop" : 1639842492139,
+    "duration" : 2642
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a9183796682ba607",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639839927705,
+        "stop" : 1639839935103,
+        "duration" : 7398
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "be3a5367156d41d8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1639839927705,
+          "stop" : 1639839935103,
+          "duration" : 7398
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "92de9a190fea27a6.json",
+  "parameterValues" : [ "chrome-96.0.4664.110" ]
+}

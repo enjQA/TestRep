@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "should login with valid credentials",
+    "uid" : "92de9a190fea27a6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1639842489497,
+      "stop" : 1639842492139,
+      "duration" : 2642
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-96.0.4664.110" ]
+  }, {
+    "name" : "POST Request",
+    "uid" : "4a3aac5a127d2435",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1639859578073,
+      "stop" : 1639859578333,
+      "duration" : 260
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : true,
+    "parameters" : [ "chrome-96.0.4664.110" ]
+  } ],
+  "name" : "behaviors"
+}

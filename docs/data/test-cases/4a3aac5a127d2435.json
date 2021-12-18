@@ -1,0 +1,103 @@
+{
+  "uid" : "4a3aac5a127d2435",
+  "name" : "POST Request",
+  "fullName" : "API Requests.POST Request",
+  "historyId" : "10cddfedff1ee99bbecf67112ad45a87",
+  "time" : {
+    "start" : 1639859578073,
+    "stop" : 1639859578333,
+    "duration" : 260
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "API Requests"
+  }, {
+    "name" : "testClass",
+    "value" : "API Requests"
+  }, {
+    "name" : "testMethod",
+    "value" : "POST Request"
+  }, {
+    "name" : "package",
+    "value" : "API Requests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "12a0ba54ffdb2b38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639858779477,
+        "stop" : 1639858780150,
+        "duration" : 673
+      }
+    }, {
+      "uid" : "89a992c94a08cfa9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639858335245,
+        "stop" : 1639858336130,
+        "duration" : 885
+      }
+    }, {
+      "uid" : "b618c7218300d7e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639856647777,
+        "stop" : 1639856648544,
+        "duration" : 767
+      }
+    }, {
+      "uid" : "d7f10881e2b9a333",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639849942356,
+        "stop" : 1639849943128,
+        "duration" : 772
+      }
+    }, {
+      "uid" : "321a57d369ce79e7",
+      "status" : "broken",
+      "statusDetails" : "req.post is not a function",
+      "time" : {
+        "start" : 1639849834185,
+        "stop" : 1639849834189,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a3aac5a127d2435.json",
+  "parameterValues" : [ "chrome-96.0.4664.110" ]
+}

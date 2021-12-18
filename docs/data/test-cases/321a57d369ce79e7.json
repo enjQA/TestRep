@@ -1,0 +1,62 @@
+{
+  "uid" : "321a57d369ce79e7",
+  "name" : "POST Request",
+  "fullName" : "API Requests.POST Request",
+  "historyId" : "10cddfedff1ee99bbecf67112ad45a87",
+  "time" : {
+    "start" : 1639849834185,
+    "stop" : 1639849834189,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "req.post is not a function",
+  "statusTrace" : "TypeError: req.post is not a function\n                    at postAPI.postRequest (/Users/mac/Documents/trnPrjct/test/pageobjects/postApi.page.js:16:20)\n                    at async Context.<anonymous> (/Users/mac/Documents/trnPrjct/test/specs/example.e2e.js:6:21)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "API Requests"
+  }, {
+    "name" : "testClass",
+    "value" : "API Requests"
+  }, {
+    "name" : "testMethod",
+    "value" : "POST Request"
+  }, {
+    "name" : "package",
+    "value" : "API Requests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.110"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "321a57d369ce79e7.json",
+  "parameterValues" : [ "chrome-96.0.4664.110" ]
+}
